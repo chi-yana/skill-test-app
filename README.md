@@ -30,8 +30,14 @@ npm run dev
 
 4. ブラウザでアクセス
 
-```bash
+```
 http://localhost:3000
+```
+
+※ 先生一覧ページは以下URLで確認できます。
+
+```
+http://localhost:3000/teacher
 ```
 
 ## 技術スタック
